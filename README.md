@@ -1,36 +1,37 @@
-Title: Smart Stay – Room Rental Web Application
-Project Description
+# Smart Stay – Room Rental Web Application
 
-    Smart Stay is a web-based room rental application that allows users to explore available rooms with detailed information and images.
-    This project is designed to simplify the process of finding and managing rental rooms
-    
-Features:
-  1.View all available rooms
-  
-  2. Detailed room information
+## Project Description
 
-  3.Add new rooms
-  
-  4.Update room details
-  
-  5.Delete room listings
-  
-  6.User-friendly interface
-  
-Technologies Used
+Smart Stay is a web-based room rental application that allows users to explore available rooms with detailed information.
+The application is designed to simplify the process of finding and managing rental rooms efficiently.
 
-  Frontend: HTML, CSS
-  
-  Backend: Java (Servlets, JSP)
-  
-  Database: MySQL
-  
-  Server: Apache Tomcat
-  
-Future Enhancements:
+---
 
-  User login & authentication
-  
-  Online booking system
-  
-  Payment integration
+## Features
+
+* View all available rooms
+* Access detailed room information
+* Add new rooms
+* Update existing room details
+* Delete room listings
+* User-friendly interface
+
+---
+
+## Technologies Used
+
+* Frontend: HTML, CSS
+* Backend: Java (Servlets, JSP)
+* Database: MySQL
+* Server: Apache Tomcat
+
+---
+
+## Future Enhancements
+
+* User authentication and authorization
+* Online room booking system
+* Payment integration
+
+---
+
